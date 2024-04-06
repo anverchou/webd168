@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Biography</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="profile.jpg" alt="Your Name" class="profile-image">
+        <h1></h1>
+    </header>
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>Hello! My name is Anver Chou and I am a second year student at Mesa College. I am currently majoring in Mathematics and Pre-Engineering.
+                I am hoping to transfer to UCSD for Mathematics/CS or UCI for Software Engineering this fall. I think something interesting that I do is that
+                I help tutor students from K-6 in tech. I teach various lessons ranging from robtics, scratch, python, and more, depending on grade of the students for 
+                a specific class. 
+            </p>
+        </section>
+        <section>
+            <h2>About This Course</h2>
+            <p>I am taking this course because I want to learn more about HTML and CSS. I am also interested in learning more about frontend development
+                Through this course, I am hoping to improve my programming skills and knowledge. By improving my programming skills and knowledge, I hope to obtain
+                a career in tech. 
+            </p>
+        </section>
+        <section>
+            <h2>My Background</h2>
+            <p>I have taken a multiude of courses related to programming at Mesa. Python, C++, Java, Data Strucutres and Algorithms are a few of the classes
+                I have taken so far. I have had some prior experience with web design, learning HTML and CSS from my APCS classes in high school and doing some self learning over the summer.
+                However, I would say my experience in web design and frontend development is still very novice, thus, this is why I am taking this course. 
+            </p>
+        </section>
+        <section>
+            <h2>Hobbies</h2>
+            <ul>
+                <li>Going to the Gym</li>
+                <li>Attending Music Festivals</li>
+                <li>Cooking</li>
+                <li>Playing Video Games</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Lesson01 Webd168</a></p>
+    </footer>
+</body>
+</html>
