@@ -7,6 +7,6 @@
 
 [Lesson03 - Index](https://gnarfizz.github.io/webd168/Lesson03/index.html)
 
-[Lesson04 - Web Typography] 
+[Lesson04 - Web Typography](https://gnarfizz.github.io/webd168/Lesson04/04_web_typography.html)
 
 [Lesson04 - Menu]
