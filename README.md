@@ -16,3 +16,5 @@
 [Lesson05 - Box Shadows](https://gnarfizz.github.io/webd168/Lesson05/05_box-shadow_start.html)
 
 [Lesson05 - Summer Menu](https://gnarfizz.github.io/webd168/Lesson05/summermenu.html)
+
+[Lesson06 - Flexbox Layout](https://gnarfizz.github.io/webd168/Lesson06/index.html)
