@@ -10,3 +10,9 @@
 [Lesson04 - Web Typography](https://gnarfizz.github.io/webd168/Lesson04/04_web_typography.html)
 
 [Lesson04 - Menu](https://gnarfizz.github.io/webd168/Lesson04/menu.html)
+
+[Lesson05 - Multiple Backgrounds](https://gnarfizz.github.io/webd168/Lesson05/04_multiple_bgs.html)
+
+[Lesson05 - Box Shadows](https://gnarfizz.github.io/webd168/Lesson05/05_box-shadow_start.html)
+
+[Lesson05 - Summer Menu](https://gnarfizz.github.io/webd168/Lesson05/summermenu.html)
