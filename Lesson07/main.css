@@ -1,7 +1,7 @@
 /* CSS Document */
 @import url('https://fonts.googleapis.com/css?family=Lato|Zilla+Slab:300,400');
 body {
-	background: url(images/turtle.jpg) no-repeat top left fixed;
+	background: url(turtle.jpg) no-repeat top left fixed;
 	-webkit-background-size: cover;
 	background-size: cover;
 	font-family: 'Lato', sans-serif;
