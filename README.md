@@ -27,4 +27,4 @@
 
 [Lesson08 - WhaleShark](https://gnarfizz.github.io/webd168/Lesson08/whaleShark.html)
 
-[Lesson08 - Skeleton CSS](
+[Lesson08 - Skeleton CSS](https://gnarfizz.github.io/webd168/Lesson08/index.html)
