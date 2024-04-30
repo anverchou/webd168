@@ -24,3 +24,7 @@
 [Lesson07 - CSS Grid1](https://gnarfizz.github.io/webd168/Lesson07/grid.html)
 
 [Lesson07 - CSS Grid2](https://gnarfizz.github.io/webd168/Lesson07/grid2.html)
+
+[Lesson08 - WhaleShark]
+
+[Lesson08 - Skeleton CSS]
