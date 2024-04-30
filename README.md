@@ -25,6 +25,6 @@
 
 [Lesson07 - CSS Grid2](https://gnarfizz.github.io/webd168/Lesson07/grid2.html)
 
-[Lesson08 - WhaleShark]
+[Lesson08 - WhaleShark](https://gnarfizz.github.io/webd168/Lesson08/whaleShark.html)
 
-[Lesson08 - Skeleton CSS]
+[Lesson08 - Skeleton CSS](
