@@ -25,5 +25,5 @@
 
 [Lesson10 - Bootstrap continued](https://anverchou.github.io/webd168/BootStrap/index.html)
 
-[Lesson11 - SVG Assignment](https:/anverchouz.github.io/webd168/Lesson11/index.html)
+[Lesson11 - SVG Assignment](https:/anverchou.github.io/webd168/Lesson11/index.html)
 
