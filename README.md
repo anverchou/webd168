@@ -1,15 +1,30 @@
 
+[Lesson01 - Creating Biography](https://anverchou.github.io/webd168/Lesson01/bio.html)
 
-[Lesson7 Part1](https://gnarfizz.github.io/webd168/Lesson07/index.html)
+[Lesson02 - Selector Basics](https://anverchou.github.io/webd168/Lesson02/selector_basics_start.html)
 
-[Lesson7 Part2](https://gnarfizz.github.io/webd168/Lesson07/index.html)
+[Lesson03 - Box Model](https://anverchou.github.io/webd168/Lesson03/03_box_model_complete.html)
 
-[Lesson8](https://gnarfizz.github.io/webd168/Lesson08/index.html)
+[Lesson04 - Typography](https://anverchou.github.io/webd168/Lesson04/menu.html)
 
-[Bootstrap Assignment](https://gnarfizz.github.io/webd168/BootStrap/index.html)
+[Lesson04 - Part2](https://anverchou.github.io/webd168/Lesson04/04_web_typography.html)
 
-[Updated Bio](https://gnarfizz.github.io/webd168/UpdatedBio/bio.html)
+[Lesson05 - CSS3](https://anverchou.github.io/webd168/Lesson05/04_multiple_bgs.html)
 
-[SVG Assignment](https://gnarfizz.github.io/webd168/Lesson11/index.html)
+[Lesson05 - CSS3 Part2](https://anverchou.github.io/webd168/Lesson05/05_box-shadow_start.html)
 
-[Final Project](https://gnarfizz.github.io/webd168/final/index.html#about)
+[Lesson06 - Flex Layout](https://anverchou.github.io/webd168/Lesson06/index.html)
+
+[Lesson07 Part1](https://anverchou.github.io/webd168/Lesson07/index.html)
+
+[Lesson07 Part2](https://anverchou.github.io/webd168/Lesson07/index.html)
+
+[Lesson08 - Responsive Webpages](https://gnarfianverchoub.io/webd168/Lesson08/index.html)
+
+[Lesson09 - Bootstrap](https://anverchounarfizz.github.io/webd168/BootStrap/index.html)
+
+[Lesson10 - Bootstrap continued](https://anverchou.github.io/webd168/BootStrap/index.html)
+
+[SVG Assignment](https:/anverchouz.github.io/webd168/Lesson11/index.html)
+
+[Final Project - Portfolio](https://anverchou.github.io/webd168/final/index.html#about)
