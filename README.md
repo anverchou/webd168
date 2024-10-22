@@ -15,9 +15,9 @@
 
 [Lesson06 - Flex Layout](https://anverchou.github.io/webd168/Lesson06/index.html)
 
-[Lesson07 Part1](https://anverchou.github.io/webd168/Lesson07/index.html)
+[Lesson07 - Gridbox/Flexbox Layout](https://anverchou.github.io/webd168/Lesson07/index.html)
 
-[Lesson07 Part2](https://anverchou.github.io/webd168/Lesson07/index.html)
+[Lesson07 - Part2](https://anverchou.github.io/webd168/Lesson07/index.html)
 
 [Lesson08 - Responsive Webpages](https://gnarfianverchoub.io/webd168/Lesson08/index.html)
 
